@@ -2,3 +2,8 @@ android/build
 *.iml
 android/.idea/workspace.xml
 android/.idea/copyright/profiles_settings.xml
+
+android/.idea
+android/.gradle
+android/local.properties
+android/android.iml
