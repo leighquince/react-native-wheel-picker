@@ -7,3 +7,7 @@ android/.idea
 android/.gradle
 android/local.properties
 android/android.iml
+
+android/gradle
+android/gradlew.bat
+android/gradlew
