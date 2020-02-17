@@ -106,7 +106,7 @@ class WheelCurvedPicker extends React.Component {
 }
 
 class Item extends React.Component {
-	propTypes: {
+	static propTypes: {
 		value: React.PropTypes.any, // string or integer basically
 		label: React.PropTypes.string,
 	}
